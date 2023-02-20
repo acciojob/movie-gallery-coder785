@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+   #p1{
+            display: grid;
+            grid-template-columns: repeat(12,auto);
+	   ro
+        }
